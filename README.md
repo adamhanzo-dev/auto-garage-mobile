@@ -1,2 +1,2 @@
 # auto-garage-mobile
-universty project
+university project
